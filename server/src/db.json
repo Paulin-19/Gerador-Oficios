@@ -1,0 +1,47 @@
+{
+  "conselhos": [
+    {
+      "id": "1768324585635",
+      "nome": "teste",
+      "estado": "AP",
+      "responsavel": "teste",
+      "cargo": "teste"
+    },
+    {
+      "id": "1768324962602",
+      "nome": "teste",
+      "estado": "CE",
+      "responsavel": "sdads",
+      "cargo": "dsadsa"
+    },
+    {
+      "id": "1768325345988",
+      "nome": "212321",
+      "estado": "AC",
+      "responsavel": "dsadsa",
+      "cargo": "dsadsa"
+    }
+  ],
+  "formandos": [
+    {
+      "id": "1768322994049",
+      "ra": "teste",
+      "nome": "Paulo Augusto Ondei Bonetti",
+      "curso": "certificado gratuito",
+      "estado": "PB",
+      "polo": "sdadsa",
+      "dataConclusao": "2026-02-14",
+      "dataColacao": "2026-05-12"
+    },
+    {
+      "id": "1768323553930",
+      "ra": "24257331",
+      "nome": "Paulo Augusto Ondei Bonetti",
+      "curso": "teste",
+      "estado": "GO",
+      "polo": "dsadsa",
+      "dataConclusao": "2023-05-12",
+      "dataColacao": "2025-02-20"
+    }
+  ]
+}
